@@ -9,6 +9,8 @@ slackjaw is a [Slack][slack] app with [Bitbucket][bitbucket] integration.
 
 * Posts reminders of unanswered Pull Request comments on Bitbucket.
 
+![unanswered comments reminder](https://github.com/jcrd/slackjaw/blob/assets/unanswered-comments.png)
+
 ## Setup
 
 slackjaw requires set up with both Bitbucket and Slack.
